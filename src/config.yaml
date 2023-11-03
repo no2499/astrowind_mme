@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: MME
+  site: 'https://mme.com.tw'
   base: '/'
   trailingSlash: false
 
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+    default: 中華量身教育國際研究會
+    template: '%s — MME'
+  description: "\U0001F680 MME"
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: MME
     images:
       - url: '~/assets/images/default.png'
         width: 1200
